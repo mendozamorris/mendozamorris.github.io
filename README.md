@@ -1,32 +1,27 @@
-# My Portfolio Website
+# Moris Mendoza | Portfolio Website
 
-This is my personal portfolio website. I made it using HTML, CSS, and JavaScript.
+A personal portfolio website to showcase who I am, my education, skills, and projects.
 
-## About
+---
 
-Hi! I'm Moris Mendoza, an IT student. I created this website to show who I am, my education, skills, and future projects.
+## Technologies Used
 
-## What's inside
+- HTML5
+- CSS3
+- JavaScript
 
-- `index.html` - the main page
-- `styles.css` - all the styling
-- `script.js` - small script for animations
+---
 
-## How to open
+## Screenshots
 
-Just download the files and open `index.html` in your browser. That's it!
+![Homepage](screenshots/homepage.png)
 
-## Sections
+---
 
-- Home
-- About Me
-- Education
-- Skills
-- Projects (coming soon)
-- Contact
+## Live Website
 
-## Contact Me
+https://mendozamorris.github.io
 
-- Email: morrisdanielmendoza@gmail.com
-- GitHub: https://github.com/mendozamorris
-- Instagram: https://www.instagram.com/riszmoo
+---
+
+© 2025 Moris Mendoza
